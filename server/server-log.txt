@@ -1,0 +1,55 @@
+﻿
+> skyview-backend@1.0.0 dev
+> tsx watch src/index.ts
+
+2026-06-29 13:35:03 [[32minfo[39m]: MongoDB connected successfully
+2026-06-29 13:35:03 [[33mwarn[39m]: Redis connection refused ΓÇö running without cache
+2026-06-29 13:35:04 [[33mwarn[39m]: Redis unavailable ΓÇö running without cache
+2026-06-29 13:35:04 [[32minfo[39m]: SkyView API running on port 4000 in development mode
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 1165.301 ms - 62[0m
+2026-06-29 13:35:25 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 1205.753 ms - 60[0m
+2026-06-29 13:35:26 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 1269.970 ms - 60[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 462.497 ms - 62[0m
+2026-06-29 13:35:27 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 464.219 ms - 60[0m
+2026-06-29 13:35:27 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 506.750 ms - 60[0m
+2026-06-29 13:35:29 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 390.599 ms - 60[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 419.202 ms - 62[0m
+2026-06-29 13:35:29 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 348.069 ms - 60[0m
+2026-06-29 13:36:39 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 214.999 ms - 60[0m
+2026-06-29 13:36:39 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 215.513 ms - 60[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 250.555 ms - 62[0m
+2026-06-29 13:36:40 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 76.085 ms - 60[0m
+2026-06-29 13:36:40 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 73.638 ms - 60[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 77.926 ms - 62[0m
+2026-06-29 13:36:42 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 67.662 ms - 60[0m
+2026-06-29 13:36:42 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 66.260 ms - 60[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 85.354 ms - 62[0m
+[0mGET / [33m404[0m 1.517 ms - 139[0m
+[0mGET / [33m404[0m 0.574 ms - 139[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 272.314 ms - 62[0m
+2026-06-29 13:37:09 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 280.709 ms - 60[0m
+2026-06-29 13:37:09 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 302.378 ms - 60[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 72.277 ms - 62[0m
+2026-06-29 13:37:10 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 68.895 ms - 60[0m
+2026-06-29 13:37:11 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 416.713 ms - 60[0m
+[0mGET /api/weather/air-quality?lat=10.7905&lon=78.7047 [31m500[0m 68.026 ms - 62[0m
+2026-06-29 13:37:12 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 67.886 ms - 60[0m
+2026-06-29 13:37:13 [[31merror[39m]: OpenWeatherMap API error {"status":401,"body":"{\"cod\":401, \"message\": \"Please note that using One Call 3.0 requires a separate subscription to the One Call by Call plan. Learn more here https://openweathermap.org/price. If you have a valid subscription to the One Call by Call plan, but still receive this error, then please see https://openweathermap.org/faq#error401 for more info.\"}"}
+[0mGET /api/weather/current?lat=10.7905&lon=78.7047 [33m401[0m 115.807 ms - 60[0m

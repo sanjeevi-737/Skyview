@@ -1,0 +1,51 @@
+﻿
+> wetherreport@0.1.0 dev
+> next dev
+
+Γû▓ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.137.1:3000
+- Environments: .env.local
+Γ£ô Ready in 500ms
+
+ GET / 200 in 735ms (next.js: 396ms, application-code: 339ms)
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 1995ms (next.js: 745ms, application-code: 1250ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 2.0s (next.js: 746ms, application-code: 1265ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 2.1s (next.js: 746ms, application-code: 1342ms)
+node.exe : [browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([browser] THREE....Timer instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 507ms (next.js: 21ms, application-code: 486ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 489ms (next.js: 9ms, application-code: 480ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 517ms (next.js: 2ms, application-code: 514ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 413ms (next.js: 7ms, application-code: 406ms)
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 465ms (next.js: 19ms, application-code: 446ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 374ms (next.js: 2ms, application-code: 372ms)
+  Reload env: .env.local
+  Reload env: .env.local
+ GET / 200 in 234ms (next.js: 87ms, application-code: 147ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 268ms (next.js: 24ms, application-code: 244ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 270ms (next.js: 31ms, application-code: 239ms)
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 306ms (next.js: 39ms, application-code: 267ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 102ms (next.js: 15ms, application-code: 87ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 87ms (next.js: 4ms, application-code: 83ms)
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 96ms (next.js: 3ms, application-code: 92ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 95ms (next.js: 14ms, application-code: 80ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 81ms (next.js: 4ms, application-code: 76ms)
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 98ms (next.js: 3ms, application-code: 96ms)
+ GET / 200 in 69ms (next.js: 4ms, application-code: 65ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 293ms (next.js: 8ms, application-code: 286ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 302ms (next.js: 4ms, application-code: 299ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 328ms (next.js: 9ms, application-code: 319ms)
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 118ms (next.js: 24ms, application-code: 94ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 104ms (next.js: 16ms, application-code: 89ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 453ms (next.js: 9ms, application-code: 444ms)
+ GET /api/weather/aqi?lat=10.7905&lon=78.7047 500 in 93ms (next.js: 11ms, application-code: 82ms)
+ GET /api/weather/current?lat=10.7905&lon=78.7047 401 in 76ms (next.js: 2ms, application-code: 74ms)
+ GET /api/weather/alerts?lat=10.7905&lon=78.7047 401 in 146ms (next.js: 15ms, application-code: 132ms)
